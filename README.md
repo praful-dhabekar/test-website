@@ -7,7 +7,8 @@ This repository is for testing purpose only!
 ### I'm a h3 heading
 
 This is a first paragraph.
-This is a seconf paragraph
+
+This is a second paragraph
 
 List:
 - I'm list one
